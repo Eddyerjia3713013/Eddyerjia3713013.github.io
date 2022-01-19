@@ -1,5 +1,14 @@
 <!-- 导航栏 -->
 <!-- * java架构师 -->
+* 性能调优
+    * [Jvm]()
+    * [Mysql]()
+    * [Nginx调优]()
+    * [Tomcat调优]()
+* 框架源码
+    * [spring]()
+    * [MyBatis]()
+    * [设计模式]()
 * 分布式协调中间件
     * [Nginx](./nginx/001-java架构师直通车-nginx)
     * [zk]()
@@ -16,7 +25,16 @@
     * [Kafka]()
     * [Rabbitmq]()
     * [RocketMq]()
+* 微服务
+    * [springboot]()
+    * [springCloud]()
+    * [springCloudAlibaba]()
+    
 
 * 大前端
+    * [html](./nginx/001-java架构师直通车-nginx)
+    * [css](./nginx/001-java架构师直通车-nginx)
+    * [js](./nginx/001-java架构师直通车-nginx)
+    * [jquery](./nginx/001-java架构师直通车-nginx)
+    * [前端进阶](./nginx/001-java架构师直通车-nginx)
     * [vue](./nginx/001-java架构师直通车-nginx)
-    <!-- * [dubbo]() -->
