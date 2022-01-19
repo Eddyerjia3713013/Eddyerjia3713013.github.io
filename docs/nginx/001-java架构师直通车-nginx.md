@@ -343,7 +343,8 @@ yum install crontabs
 */1 * * * * nginx-cut-log.sh
 ~~~
 
-![image-20211029142447059](./001-nginx-images/image-20211029142447059.png)
+<!-- ![image-20211029142447059](./001-nginx-images/image-20211029142447059.png) -->
+<img src="./001-nginx-images/image-20211029142447059.png" alt="image-20211029142447059" style="zoom:50%;" />
 
 修改后重启
 
