@@ -587,7 +587,7 @@ http {
 
 nginx 默认的负载均衡方式,
 
-验证:在每个被代理的3个tomcat 下的ROOT/index.jsp 中修改添加 tomcat1~3 的<h1> 标识,访问展示.依次显示是 tomcat1,tomcat2,tomcat3
+验证:在每个被代理的3个tomcat 下的ROOT/index.jsp 中修改添加 tomcat1~3 的`<h1>` 标识,访问展示.依次显示是 tomcat1,tomcat2,tomcat3
 
 #### 权重轮询:
 
