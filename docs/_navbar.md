@@ -10,7 +10,7 @@
     * [MyBatis]()
     * [设计模式]()
 * 分布式协调中间件
-    * [Nginx](./nginx/001-java架构师直通车-nginx)
+    * [Nginx](./001-nginx/001-java架构师直通车-nginx)
     * [zk]()
     * [Dubbo]()
     * [Netty]()
@@ -35,14 +35,14 @@
     * [支付]()
 
 * 大前端
-    * [html](./nginx/001-java架构师直通车-nginx)
-    * [css](./nginx/001-java架构师直通车-nginx)
-    * [js](./nginx/001-java架构师直通车-nginx)
-    * [jquery](./nginx/001-java架构师直通车-nginx)
-    * [前端进阶](./nginx/001-java架构师直通车-nginx)
-    * [vue](./nginx/001-java架构师直通车-nginx)
+    * [html](./001-nginx/001-java架构师直通车-nginx)
+    * [css](./001-nginx/001-java架构师直通车-nginx)
+    * [js](./001-nginx/001-java架构师直通车-nginx)
+    * [jquery](./001-nginx/001-java架构师直通车-nginx)
+    * [前端进阶](./001-nginx/001-java架构师直通车-nginx)
+    * [vue](./001-nginx/001-java架构师直通车-nginx)
 
 * 大数据
-    * [Hadoop](./nginx/001-java架构师直通车-nginx)
-    * [HBase](./nginx/001-java架构师直通车-nginx)
-    * [hive](./nginx/001-java架构师直通车-nginx)
+    * [Hadoop](./001-nginx/001-java架构师直通车-nginx)
+    * [HBase](./001-nginx/001-java架构师直通车-nginx)
+    * [hive](./001-nginx/001-java架构师直通车-nginx)
