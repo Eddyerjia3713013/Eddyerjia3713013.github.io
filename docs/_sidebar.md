@@ -27,9 +27,12 @@
     * [RocketMq]()
 * 微服务
     * [springboot]()
+    * [springboot-demo]()
     * [springCloud]()
     * [springCloudAlibaba]()
-    
+* 项目实战
+    * [秒杀]()
+    * [支付]()
 
 * 大前端
     * [html](./nginx/001-java架构师直通车-nginx)
@@ -38,3 +41,8 @@
     * [jquery](./nginx/001-java架构师直通车-nginx)
     * [前端进阶](./nginx/001-java架构师直通车-nginx)
     * [vue](./nginx/001-java架构师直通车-nginx)
+
+* 大数据
+    * [Hadoop](./nginx/001-java架构师直通车-nginx)
+    * [HBase](./nginx/001-java架构师直通车-nginx)
+    * [hive](./nginx/001-java架构师直通车-nginx)
