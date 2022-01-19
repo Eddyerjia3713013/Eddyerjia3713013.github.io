@@ -17,6 +17,6 @@
     * [Rabbitmq]()
     * [RocketMq]()
 
-* 前端
+* 大前端
     * [vue](./nginx/001-java架构师直通车-nginx)
     <!-- * [dubbo]() -->
